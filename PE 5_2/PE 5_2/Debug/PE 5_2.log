@@ -1,0 +1,3 @@
+﻿  PE 5_2.cpp
+D:\Programs For Class\PE 5_2\PE 5_2\PE 5_2.cpp(6,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  PE 5_2.vcxproj -> D:\Programs For Class\PE 5_2\Debug\PE 5_2.exe
